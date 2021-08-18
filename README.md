@@ -1,2 +1,2 @@
 # Hasoc_2021
-Files used for Comp
+Models developed by me for the competition 
